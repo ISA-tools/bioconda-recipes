@@ -1,10 +1,10 @@
 package:
   name: isatools
-  version: "0.10.0"
+  version: "0.10.2"
 
 source:
-  url: https://pypi.python.org/packages/c1/e5/219ea04a6529806e055b321a0a7ace0bddd08869d65aca3a52d4ee877420/isatools-0.10.0.tar.gz
-  sha256: 8f97d815ecf40cdc9154ab0a51ba6e7364b57bad2d01cd536fc4ae36e5591c97
+  url: https://files.pythonhosted.org/packages/c8/f9/20ef1b70655bdaeff8a442c49e39ffc1bf15b0a875520b0d17ceba74fe5f/isatools-0.10.2.tar.gz
+  sha256: f704ee6f130906101a3628479847f4ad22ca0b60a13bbd772d387b2b2c9b9d9d
 
 build:
   skip: True # [py27]
